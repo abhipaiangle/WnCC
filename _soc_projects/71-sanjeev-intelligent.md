@@ -5,7 +5,7 @@ title: Intelligent agents
 mentor: "T Sanjeev Vishnu"
 category: "Artificial Intelligence, Data Science"
 mentees:
-- Abishek Pai Angle
+- Abhishek Pai Angle
 - Aum Jain
 - Dev Moxaj Desai
 - Divyanshi Kamra 
